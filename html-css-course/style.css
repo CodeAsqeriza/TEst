@@ -1,0 +1,37 @@
+.StaffList {
+    color: black;
+    background: lightslategrey;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;   
+}
+
+.Inleiding {
+    color: black;
+    background: lightslategray;
+    width: 1000px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: bold;   
+} 
+
+.Bieden {
+    color: black;
+    background: lightslategrey;
+    width: 1000px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    font-weight: bold;     
+}
+
+body {
+    background-color: lightgray;
+}
